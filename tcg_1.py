@@ -22,5 +22,5 @@ def searchphrases(sentences, bad_phrases):
 
 
 squeeze('rovio_tos.txt', 'bad_phrases.txt')
-print("\n\n\n\n\n\n\nThis is the eula stuff\n\n\n\n\n\n\n")
+print("\n\n\n\n\n\n\nThis is the eula stuff\n\n\n\n\n\n\n\n")
 squeeze('rovio_eula.txt', 'bad_phrases.txt')
